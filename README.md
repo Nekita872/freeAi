@@ -1,11 +1,4 @@
-# GeoFree Android (без root)
-
-Локальный VPN + подмена DNS для AI-доменов. Root не нужен.
-
-## Сборка
-Android Studio → Open → Sync → Build → Generate APKs
-APK: app/build/outputs/apk/debug/app-debug.apk
-
+Локальный VPN + подмена DNS для AI-доменов. 
 ## Использование
 1. Установи APK
 2. IP / DNS → авто-подбор
